@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(61, 134, 134);
+    text-align: center;
+    background-image:url("BGImage.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 45px;
+}
+
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.btn:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+}
